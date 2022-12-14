@@ -1,0 +1,10 @@
+Project : LSB Image Steganography
+Name	: Gurram Anka Rao
+Input	: Pass file through command line.
+Encoding ./a.out -e <.bmp file> <secret_file> [output file]
+Decoding ./a.out -d <.stego.bmp> [output file]
+Output: Secret message is Encoded/Decoded from the given bmp file.
+References:
+https://en.wikipedia.org/wiki/Steganography
+https://en.wikipedia.org/wiki/Pixel
+http://www.ue.eti.pg.gda.pl/fpgalab/zadania.spartan3/zad_vga_struktura_pliku_bmp_en.html
